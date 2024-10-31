@@ -1,0 +1,25 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.wrap.spfw_welcome_wrap fieldset {
+    -webkit-box-shadow: 0px 0px 3px 4px rgba(204,204,204,0.43);
+    -moz-box-shadow: 0px 0px 3px 4px rgba(204,204,204,0.43);
+    box-shadow: 0px 0px 3px 4px rgba(204,204,204,0.43);
+    background:#fff;
+    padding:25px;
+}
+.wrap.spfw_welcome_wrap {
+    font-size: 15px;
+    line-height: 1.5em;
+}
+.wrap.spfw_welcome_wrap fieldset h2 {
+    font-size: 30px;
+}
+.wrap.spfw_welcome_wrap ul {
+    list-style: square;
+    margin:0px 20px;
+}
+.spfw_lite {
+    line-height:25px;
+}
